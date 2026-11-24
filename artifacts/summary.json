@@ -1,0 +1,20 @@
+{
+  "n_rows": 176,
+  "n_studies": 7,
+  "best_regressor": "Gradient Boosting",
+  "high_yield_threshold": 80.0,
+  "high_yield_share": 0.44886363636363635,
+  "shap_base_value": 73.53743934244318,
+  "features": [
+    "Biomass_Lipid_Content_wt%",
+    "Alcohol_to_Oil_Molar_Ratio",
+    "Catalyst_Loading_wt%",
+    "Reaction_Temperature_C",
+    "Reaction_Time_min",
+    "Catalyst_Reusability_Cycle",
+    "Algae_Species",
+    "Cultivation_Mode",
+    "Lipid_Recovery_Group",
+    "Catalyst_Class"
+  ]
+}

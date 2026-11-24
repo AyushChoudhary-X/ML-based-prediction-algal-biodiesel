@@ -1,0 +1,23 @@
+,importance
+Catalyst_Loading_wt%,0.32337005561886323
+Reaction_Temperature_C,0.1897505583572636
+Alcohol_to_Oil_Molar_Ratio,0.14345604741064708
+Reaction_Time_min,0.14092259053008183
+Catalyst_Reusability_Cycle,0.055858225799412346
+Biomass_Lipid_Content_wt%,0.02748538249996552
+Algae_Species_Spirogyra algae,0.023750495808982742
+Lipid_Recovery_Group_SC-CO2 + ethanol,0.0223563183076647
+Catalyst_Class_Heterogeneous,0.018121317456261127
+Lipid_Recovery_Group_Ultrasound + microwave,0.014047017902886772
+Cultivation_Mode_Heterotrophic bioreactor,0.006770152298665503
+Algae_Species_Ulva lactuca,0.005637129840213716
+Catalyst_Class_Homogeneous,0.0054866204919913775
+Algae_Species_Chlorella sorokiniana,0.005040044661623661
+Cultivation_Mode_Natural environment,0.004940641601214652
+Lipid_Recovery_Group_Soxhlet (methanol),0.003308347358907663
+Catalyst_Class_Enzymatic,0.00302424605084614
+Algae_Species_Caulerpa racemosa,0.0025129509755821415
+Lipid_Recovery_Group_Soxhlet (hexane),0.00186560879206207
+Algae_Species_Stoechospermum marginatum,0.0015435242108817557
+Algae_Species_Chlorella (Chlorophyceae),0.00045146407647636636
+Cultivation_Mode_Commercial biomass,0.0003012599495060929
